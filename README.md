@@ -9,6 +9,18 @@ Welcome to the Story Generator, an innovative tool designed to harness the power
 - **User-Friendly Interface**: Our simple and intuitive interface ensures a smooth experience. Just type your word, press generate, and watch as your story unfolds.
 - **Infinite Possibilities**: The Story Generator is not just a tool for writing but also a source of inspiration, a teaching aid, and a fun way to explore creative storytelling.
 
+## Quick Start
+
+To get the app running locally:
+
+1. **Clone the repository**
+- git clone https://github.com/Anandtech09/story_genarator.
+
+2. **Run the Streamlit app**
+- streamlit run main.py
+
+- After executing the command, Streamlit will start the application and provide a local URL (typically `http://localhost:8501`), which you can visit with your web browser to interact with the app.
+  
 ## How It Works
 
 1. **Input**: Start by typing a single word into the app. This could be anything from a character's name, an emotion, an object, or any concept that intrigues you.
